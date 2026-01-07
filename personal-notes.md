@@ -17,6 +17,12 @@ copy and paste the link - http://localhost:8888/lab
 
 to exit : control +  c 
 
+---
+
+# PYTHON FUNDAMENTAL 
+
+
+
 
 
 
